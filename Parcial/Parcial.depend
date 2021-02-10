@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1612962128 source:c:\users\santi\onedrive\escritorio\parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1563322520 c:\users\santi\onedrive\escritorio\parcial\input.h
+
+1612966318 source:c:\users\santi\onedrive\escritorio\parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"corredor.h"
+	"input.h"
+	"controller.h"
+
+1563322102 c:\users\santi\onedrive\escritorio\parcial\linkedlist.h
+
+1563333786 c:\users\santi\onedrive\escritorio\parcial\parser.h
+
+1612965119 c:\users\santi\onedrive\escritorio\parcial\corredor.h
+
+1612962593 c:\users\santi\onedrive\escritorio\parcial\controller.h
+	"LinkedList.h"
+
+1612966186 source:c:\users\santi\onedrive\escritorio\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"corredor.h"
+	"LinkedList.h"
+	"parser.h"
+	"input.h"
+	"controller.h"
+
+1612962552 source:c:\users\santi\onedrive\escritorio\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"corredor.h"
+
+1612966839 source:c:\users\santi\onedrive\escritorio\parcial\corredor.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"corredor.h"
+	"LinkedList.h"
+	"parser.h"
+	"input.h"
+
+1612966665 source:c:\users\santi\onedrive\escritorio\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controller.h"
+	"corredor.h"
+	"LinkedList.h"
+	"input.h"
+	"parser.h"
+
